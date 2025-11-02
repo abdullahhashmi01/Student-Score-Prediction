@@ -3,7 +3,7 @@
 
 To build a predictive model that estimates a student’s exam score using key learning habits such as study hours.
 
-#🔍 Steps Involved
+##Steps Involved
 
 Data Cleaning & Preprocessing — Handling missing values and formatting data
 
@@ -15,7 +15,7 @@ Evaluation — Measuring performance with MAE, MSE, and R² metrics
 
 Visualization — Plotting actual vs predicted exam scores
 
-#📊 Tools & Libraries
+## Tools & Libraries
 
 Python
 
@@ -27,7 +27,7 @@ Matplotlib & Seaborn
 
 Scikit-learn
 
-#🚀 Results
+## Results
 
 Built a regression model that accurately predicts student exam performance
 
