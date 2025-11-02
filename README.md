@@ -3,7 +3,7 @@
 
 To build a predictive model that estimates a student’s exam score using key learning habits such as study hours.
 
-##Steps Involved
+## Steps Involved
 
 Data Cleaning & Preprocessing — Handling missing values and formatting data
 
